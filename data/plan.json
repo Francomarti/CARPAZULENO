@@ -1,10 +1,110 @@
 {
-    "meta": {
-        "cliente": "Club Atl\u00e9tico River Plate Azule\u00f1o",
-        "periodo": "",
-        "cuotaFija": 0,
-        "mesesTranscurridos": 0
+  "meta": {
+    "cliente": "Club Atlético River Plate Azuleño",
+    "periodo": "Octubre 2026 – Septiembre 2027",
+    "cuotaFija": 722500,
+    "mesesTranscurridos": 0
+  },
+  "cambios": [],
+  "tareas": [
+    {
+      "id": 1,
+      "mes": "Octubre",
+      "anio": 2026,
+      "tarea": "Aireado Slicer Profundo (Doble)",
+      "zona": "Cancha completa",
+      "valor": 450000,
+      "intervenciones": 1,
+      "estado": "planificado",
+      "notas": ""
     },
-    "cambios": [],
-    "tareas": []
+    {
+      "id": 2,
+      "mes": "Octubre",
+      "anio": 2026,
+      "tarea": "Control de Malezas",
+      "zona": "Cancha completa",
+      "valor": 220000,
+      "intervenciones": 1,
+      "estado": "planificado",
+      "notas": ""
+    },
+    {
+      "id": 3,
+      "mes": "Diciembre",
+      "anio": 2026,
+      "tarea": "Púa hueca + Corte Vertical + Arena",
+      "zona": "Cancha completa",
+      "valor": 1200000,
+      "intervenciones": 3,
+      "estado": "planificado",
+      "notas": "A cargo del club: arena 35 t y minipala (1 h)"
+    },
+    {
+      "id": 4,
+      "mes": "Enero",
+      "anio": 2027,
+      "tarea": "Aireado Slicer Profundo (Doble)",
+      "zona": "Cancha completa",
+      "valor": 450000,
+      "intervenciones": 2,
+      "estado": "planificado",
+      "notas": ""
+    },
+    {
+      "id": 5,
+      "mes": "Marzo/Abril",
+      "anio": 2027,
+      "tarea": "Púa hueca + Corte Vertical + Siembra + Arena",
+      "zona": "Cancha completa",
+      "valor": 1200000,
+      "intervenciones": 4,
+      "estado": "planificado",
+      "notas": "1 pasada a fin de marzo y 3 en abril · A cargo del club: arena 35 t y minipala (1 h) · Raigrás 240 kg lo gestiona SuTurf"
+    },
+    {
+      "id": 6,
+      "mes": "Junio",
+      "anio": 2027,
+      "tarea": "Aireado Slicer Profundo/Púa Hueca",
+      "zona": "Cancha completa",
+      "valor": 450000,
+      "intervenciones": 1,
+      "estado": "planificado",
+      "notas": ""
+    },
+    {
+      "id": 7,
+      "mes": "Junio",
+      "anio": 2027,
+      "tarea": "Resiembra",
+      "zona": "Cancha completa",
+      "valor": 0,
+      "intervenciones": 1,
+      "estado": "planificado",
+      "notas": "Raigrás 120 kg lo gestiona SuTurf"
+    },
+    {
+      "id": 8,
+      "mes": "Agosto",
+      "anio": 2027,
+      "tarea": "Púa hueca + Corte Vertical + Arena",
+      "zona": "Cancha completa",
+      "valor": 1100000,
+      "intervenciones": 3,
+      "estado": "planificado",
+      "notas": "A cargo del club: arena 35 t y minipala (1 h)"
+    },
+    {
+      "id": 9,
+      "mes": "Agosto",
+      "anio": 2027,
+      "tarea": "Resiembra",
+      "zona": "Cancha completa",
+      "valor": 0,
+      "intervenciones": 1,
+      "estado": "planificado",
+      "notas": "Raigrás 120 kg lo gestiona SuTurf"
+    }
+  ]
 }
