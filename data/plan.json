@@ -31,6 +31,39 @@
     },
     {
       "id": 3,
+      "mes": "Octubre",
+      "anio": 2026,
+      "tarea": "Planificación anual (honorarios)",
+      "zona": "Asesoría y seguimiento",
+      "valor": 1200000,
+      "intervenciones": 0,
+      "estado": "planificado",
+      "notas": "600 AGROs · sin bonificación"
+    },
+    {
+      "id": 4,
+      "mes": "Octubre",
+      "anio": 2026,
+      "tarea": "Visita mensual y seguimiento (honorarios)",
+      "zona": "Asesoría y seguimiento",
+      "valor": 200000,
+      "intervenciones": 0,
+      "estado": "planificado",
+      "notas": "Honorarios con 50% de bonificación"
+    },
+    {
+      "id": 5,
+      "mes": "Noviembre",
+      "anio": 2026,
+      "tarea": "Visita mensual y seguimiento (honorarios)",
+      "zona": "Asesoría y seguimiento",
+      "valor": 200000,
+      "intervenciones": 0,
+      "estado": "planificado",
+      "notas": "Honorarios con 50% de bonificación"
+    },
+    {
+      "id": 6,
       "mes": "Diciembre",
       "anio": 2026,
       "tarea": "Púa hueca + Corte Vertical + Arena",
@@ -41,7 +74,18 @@
       "notas": "A cargo del club: arena 35 t y minipala (1 h)"
     },
     {
-      "id": 4,
+      "id": 7,
+      "mes": "Diciembre",
+      "anio": 2026,
+      "tarea": "Visita mensual y seguimiento (honorarios)",
+      "zona": "Asesoría y seguimiento",
+      "valor": 200000,
+      "intervenciones": 0,
+      "estado": "planificado",
+      "notas": "Honorarios con 50% de bonificación"
+    },
+    {
+      "id": 8,
       "mes": "Enero",
       "anio": 2027,
       "tarea": "Aireado Slicer Profundo (Doble)",
@@ -52,7 +96,40 @@
       "notas": ""
     },
     {
-      "id": 5,
+      "id": 9,
+      "mes": "Enero",
+      "anio": 2027,
+      "tarea": "Visita mensual y seguimiento (honorarios)",
+      "zona": "Asesoría y seguimiento",
+      "valor": 200000,
+      "intervenciones": 0,
+      "estado": "planificado",
+      "notas": "Honorarios con 50% de bonificación"
+    },
+    {
+      "id": 10,
+      "mes": "Febrero",
+      "anio": 2027,
+      "tarea": "Visita mensual y seguimiento (honorarios)",
+      "zona": "Asesoría y seguimiento",
+      "valor": 200000,
+      "intervenciones": 0,
+      "estado": "planificado",
+      "notas": "Honorarios con 50% de bonificación"
+    },
+    {
+      "id": 11,
+      "mes": "Marzo",
+      "anio": 2027,
+      "tarea": "Visita mensual y seguimiento (honorarios)",
+      "zona": "Asesoría y seguimiento",
+      "valor": 200000,
+      "intervenciones": 0,
+      "estado": "planificado",
+      "notas": "Honorarios con 50% de bonificación"
+    },
+    {
+      "id": 12,
       "mes": "Marzo/Abril",
       "anio": 2027,
       "tarea": "Púa hueca + Corte Vertical + Siembra + Arena",
@@ -63,7 +140,29 @@
       "notas": "1 pasada a fin de marzo y 3 en abril · A cargo del club: arena 35 t y minipala (1 h) · Raigrás 240 kg lo gestiona SuTurf"
     },
     {
-      "id": 6,
+      "id": 13,
+      "mes": "Abril",
+      "anio": 2027,
+      "tarea": "Visita mensual y seguimiento (honorarios)",
+      "zona": "Asesoría y seguimiento",
+      "valor": 200000,
+      "intervenciones": 0,
+      "estado": "planificado",
+      "notas": "Honorarios con 50% de bonificación"
+    },
+    {
+      "id": 14,
+      "mes": "Mayo",
+      "anio": 2027,
+      "tarea": "Visita mensual y seguimiento (honorarios)",
+      "zona": "Asesoría y seguimiento",
+      "valor": 200000,
+      "intervenciones": 0,
+      "estado": "planificado",
+      "notas": "Honorarios con 50% de bonificación"
+    },
+    {
+      "id": 15,
       "mes": "Junio",
       "anio": 2027,
       "tarea": "Aireado Slicer Profundo/Púa Hueca",
@@ -74,7 +173,7 @@
       "notas": ""
     },
     {
-      "id": 7,
+      "id": 16,
       "mes": "Junio",
       "anio": 2027,
       "tarea": "Resiembra",
@@ -85,7 +184,29 @@
       "notas": "Raigrás 120 kg lo gestiona SuTurf"
     },
     {
-      "id": 8,
+      "id": 17,
+      "mes": "Junio",
+      "anio": 2027,
+      "tarea": "Visita mensual y seguimiento (honorarios)",
+      "zona": "Asesoría y seguimiento",
+      "valor": 200000,
+      "intervenciones": 0,
+      "estado": "planificado",
+      "notas": "Honorarios con 50% de bonificación"
+    },
+    {
+      "id": 18,
+      "mes": "Julio",
+      "anio": 2027,
+      "tarea": "Visita mensual y seguimiento (honorarios)",
+      "zona": "Asesoría y seguimiento",
+      "valor": 200000,
+      "intervenciones": 0,
+      "estado": "planificado",
+      "notas": "Honorarios con 50% de bonificación"
+    },
+    {
+      "id": 19,
       "mes": "Agosto",
       "anio": 2027,
       "tarea": "Púa hueca + Corte Vertical + Arena",
@@ -96,7 +217,7 @@
       "notas": "A cargo del club: arena 35 t y minipala (1 h)"
     },
     {
-      "id": 9,
+      "id": 20,
       "mes": "Agosto",
       "anio": 2027,
       "tarea": "Resiembra",
@@ -105,6 +226,28 @@
       "intervenciones": 1,
       "estado": "planificado",
       "notas": "Raigrás 120 kg lo gestiona SuTurf"
+    },
+    {
+      "id": 21,
+      "mes": "Agosto",
+      "anio": 2027,
+      "tarea": "Visita mensual y seguimiento (honorarios)",
+      "zona": "Asesoría y seguimiento",
+      "valor": 200000,
+      "intervenciones": 0,
+      "estado": "planificado",
+      "notas": "Honorarios con 50% de bonificación"
+    },
+    {
+      "id": 22,
+      "mes": "Septiembre",
+      "anio": 2027,
+      "tarea": "Visita mensual y seguimiento (honorarios)",
+      "zona": "Asesoría y seguimiento",
+      "valor": 200000,
+      "intervenciones": 0,
+      "estado": "planificado",
+      "notas": "Honorarios con 50% de bonificación"
     }
   ]
 }

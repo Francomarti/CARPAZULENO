@@ -12,7 +12,7 @@
     <div class="brand-row">
       <img src="assets/logo-suturf.png" alt="SuTurf Tandil">
       <span class="x">×</span>
-      <div class="logo-chip"><img src="assets/logo-carp.svg" alt="Club Atlético River Plate Azuleño"></div>
+      <div class="logo-chip"><img src="assets/logo-carp.png" alt="Club Atlético River Plate Azuleño"></div>
     </div>
     <div class="header-titles">
       <div class="eyebrow">SuTurf Tandil · Ing. Agr. Franco Martignoni</div>
@@ -134,7 +134,7 @@
             <div class="check">${t.estado === "realizado" ? "✓" : ""}</div>
             <div class="item-body">
               <div class="tarea">${t.tarea}</div>
-              <div class="meta">${t.zona} · ${t.intervenciones} interv.${t.notas ? " · " + t.notas : ""}</div>
+              <div class="meta">${t.zona}${t.intervenciones ? " · " + t.intervenciones + " interv." : ""}${t.notas ? " · " + t.notas : ""}</div>
             </div>
             <div class="valor">${fmt(t.valor)}</div>
           </div>`).join("")}
