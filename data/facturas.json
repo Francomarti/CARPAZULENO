@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "id": 1,
+    "numero": "62",
+    "fecha": "2026-11-02",
+    "concepto": "Octubre labores",
+    "monto": 788000,
+    "estado": "pendiente",
+    "montoPagado": 0,
+    "fechaPago": null,
+    "medioPago": null,
+    "pdf": "https://drive.google.com/file/d/1OeC_Nl-KZItp9MCIuLROQx3jh1CvZvph/view?usp=sharing"
+  }
+]
